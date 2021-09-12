@@ -1,7 +1,37 @@
-- 👋 Olá, Eu sou o Matheus Araujo
-- 👀 I’m interested in ...
+- 👋  Olá, Eu sou o Matheus Araujo
 
-<!---
-matheusaraujocf/matheusaraujocf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📖	Estou cursando Análise e desenvolvimento de Sistemas na Bandtec Digital School 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
