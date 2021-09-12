@@ -1,4 +1,6 @@
-Opa! Eu sou o Matheus, Bem vindo ao meu perfil 😎😊
+Hi! My name is Matheus, Wellcome to my profile!! 😎😊
+Opa! Eu sou o Matheus, Bem vindo ao meu perfil!! 😎😊
+
 
 <div>
   <a href="https://github.com/matheusaraujocf">
@@ -15,7 +17,6 @@ Opa! Eu sou o Matheus, Bem vindo ao meu perfil 😎😊
   
   ![Snake animation](https://github.com/matheusaraujocf/matheusaraujocf/blob/output/github-contribution-grid-snake.svg)
 </div>
-
 
 
 
