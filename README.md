@@ -12,9 +12,11 @@ Opa! Eu sou o Matheus, Bem vindo ao meu perfil 😎😊
   <a href="https://www.facebook.com/profile.php?id=100004378777472" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/matheuz_carvalho/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-carvalho-18964121a/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  
+  ![Snake animation](https://github.com/matheusaraujocf/matheusaraujocf/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-![Snake animation](https://github.com/matheusaraujocf/matheusaraujocf/blob/output/github-contribuition-grid-snake.svg)
+
 
 
 
