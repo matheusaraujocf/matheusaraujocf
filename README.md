@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Matheus, Bem vindo ao meu perfil!! 😎😊 <br>
-Hi! My name is Matheus, Wellcome to my profile!! 😎😊 
+Hi! My name is Matheus, Welcome to my profile!! 😎😊 
 
 
 
