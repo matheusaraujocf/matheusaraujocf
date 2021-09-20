@@ -28,7 +28,7 @@ Hi! My name is Matheus, Welcome to my profile!! 😎😊
 </div>
   
   <div style="float-left">
-         <img align="right" height="320" src="https://i.pinimg.com/736x/9a/f3/7c/9af37c2cfb24024a8d68316b662fbb9f.jpg">
+         <img align="right" height="320" src="https://thumbs.gfycat.com/QueasyHelplessAtlanticsharpnosepuffer-max-1mb.gif">
   </div>
   
   # Sobre mim
