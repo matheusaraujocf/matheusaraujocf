@@ -36,7 +36,7 @@ Hi! My name is Matheus, Welcome to my profile!! 😎😊
  🎶 Completamente apaixonado por musica e jogos 🕹 <br>
  🛫 Sonho em conhecer e morar nos países nordicos 
   
-  <br><br>
+  <br>
   
   ## About me 
   📚 I'm studying ADS at Bandtec Digital School  <br>
