@@ -30,7 +30,9 @@ Hi! My name is Matheus, Welcome to my profile!! 😎😊
 </div>
   
   <div style="float-left">
-         <img align="right" height="350" src="https://pbs.twimg.com/profile_images/2276778521/hkssxa6p1nr522u6h7tu.gif">
+         <img align="right" height="350" src="https://media0.giphy.com/media/eJdT0md59Z9Ii0dMa0/giphy.webp?cid=ecf05e47ib65he0vr9278h2dvpgk1qpbldm54cp49ibhupru&rid=giphy.webp&ct=g">
+    
+
   </div>
   
   # Sobre mim
